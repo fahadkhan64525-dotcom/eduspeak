@@ -1,0 +1,8 @@
+streamlit
+opencv-python
+numpy
+pandas
+torch
+openai-whisper
+matplotlib
+plotly  
