@@ -4,9 +4,9 @@ import tempfile
 import numpy as np
 import whisper
 import time
-from utils.audio_analysis import analyze_speech
-from utils.video_analysis import analyze_eye_contact
-from utils.feedback import generate_feedback
+from audio_analysis import analyze_speech
+from video_analysis import analyze_eye_contact
+from feedback import generate_feedback
 
 st.set_page_config(page_title="EduSpeak — AI Communication Coach", layout="wide")
 
