@@ -10,7 +10,7 @@ from feedback import generate_feedback
 
 st.set_page_config(page_title="EduSpeak — AI Communication Coach", layout="wide")
 
-st.title("🎤 EduSpeak — AI Communication Coach")
+st.title("🎤 EduSpeak — AI Communication Coach...Fahad")
 st.write("Analyze your presentation or interview skills with AI feedback in real-time.")
 
 uploaded_video = st.file_uploader("Upload your presentation video", type=["mp4", "mov", "avi"])
